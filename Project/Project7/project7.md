@@ -234,7 +234,8 @@ int main()
 <a href='https://ifh.cc/v-j3q5jS' target='_blank'><img src='https://ifh.cc/g/j3q5jS.jpg' border='0'></a>  
 [참고] 스택과 힙 설명 (https://m.blog.naver.com/PostView.nhn?blogId=codingspecialist&logNo=221195242403&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ### 7-11 : std vector를 스택처럼 사용하기<br>
-벡터 : new delete이 스스로 작동하는 동적 배열<br>
+벡터 : new delete이 스스로 작동하는 동적 배열<br>  
+[참고] std vector란 ? (https://blockdmask.tistory.com/70)  
 ### 7-12 : 재귀적 함수 호출<br>
 재귀적 함수 호출 -> 자기 자신을 호출하는 함수
 ```C++
