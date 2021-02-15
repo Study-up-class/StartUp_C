@@ -73,8 +73,7 @@ int main()
 }
 ```
 
--사진1-
-
+![1](https://user-images.githubusercontent.com/76034423/107912744-6f711880-6fa2-11eb-9631-061e361168d4.JPG)
 
 ### 문제
 
@@ -122,8 +121,7 @@ int main()
 }
 ```
 
--사진7-
-
+![7](https://user-images.githubusercontent.com/76034423/107912755-71d37280-6fa2-11eb-9230-ec01cd34c12a.JPG)
 ### enum 상수의 선언
 
 ```c++
@@ -202,7 +200,7 @@ int main()
 }
 ```
 
--사진2-
+![2](https://user-images.githubusercontent.com/76034423/107912748-70a24580-6fa2-11eb-9852-31a40055eb7a.JPG)
 
 
 ### 구조체 안의 함수를 외부로 뺄 수 있다.
@@ -277,7 +275,7 @@ int main()
 }
 ```
 
--사진3-
+![3](https://user-images.githubusercontent.com/76034423/107912749-70a24580-6fa2-11eb-85e4-95f60a6cacc1.JPG)
 
 ```c++
 #include <iostream>
@@ -361,7 +359,7 @@ int main()
 }
 ```
 
--사진4-
+![4](https://user-images.githubusercontent.com/76034423/107912750-713adc00-6fa2-11eb-8e29-65ce93867293.JPG)
 
 ## C++에서의 파일 분할
 
@@ -465,7 +463,7 @@ int main()
 }
 ```
 
--사진5-
+![5](https://user-images.githubusercontent.com/76034423/107912752-713adc00-6fa2-11eb-9788-83ced535d2f8.JPG)
 
 ### inline 함수
 
@@ -570,7 +568,7 @@ int main()
 }
 ```
 
--사진6-
+![6](https://user-images.githubusercontent.com/76034423/107912753-71d37280-6fa2-11eb-8c04-01651c1d5c8e.JPG)
 
 ### 문제
 
@@ -652,7 +650,7 @@ int main()
 }
 ```
 
--사진8-
+![8](https://user-images.githubusercontent.com/76034423/107912756-71d37280-6fa2-11eb-856d-7dacf5f33e93.JPG)
 
 ##### 2
 문자열을 저장하고 출력하는 기능을 하는, 문자열 정보를 내부에 저장하는 Printer라는 이름의 클래스를 만들어라.
@@ -694,7 +692,7 @@ int main()
 }
 ```
 
--사진9-
+![9](https://user-images.githubusercontent.com/76034423/107912757-726c0900-6fa2-11eb-82ad-988130ec411d.JPG)
 
 ### 최종 예제
 
@@ -775,4 +773,4 @@ int main()
 }
 ```
 
--사진10-
+![10](https://user-images.githubusercontent.com/76034423/107912759-726c0900-6fa2-11eb-9460-c26313b48a98.JPG)
