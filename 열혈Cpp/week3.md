@@ -570,6 +570,11 @@ int main()
 
 ![6](https://user-images.githubusercontent.com/76034423/107912753-71d37280-6fa2-11eb-8c04-01651c1d5c8e.JPG)
 
+### #ifndef & #endif
+- 하나의 헤더파일을 여러 cpp 파일에서 중복해서 포함해야 할 경우에 사용한다.
+* #ifndef(if not define): 헤더파일이 정의되어 있지 않는다면 #define으로 정의를 한다는 것
+* #endif: 이미 헤더파일이 정의되어 있는 경우, #endif가 있는 사이의 모든 코드를 무시한다.
+
 ### 문제
 
 ##### 1.
